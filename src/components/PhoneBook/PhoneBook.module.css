@@ -1,0 +1,10 @@
+.phonebook  {
+  height: 100vh;
+  background-color: #78c7ef;
+ ;
+  }
+  .phonebookTitle {
+    color: rgb(93, 101, 107);
+    text-decoration: none;
+    text-align: center;
+  }

@@ -1,0 +1,29 @@
+.wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 12px;
+  }
+  
+  .useremail {
+    font-weight: 700;
+  }
+  .btn {
+    padding: 10px 20px;
+    background-color: #e9edf1;
+    color: #080707;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .btn:hover {
+    background-color: yellow;
+  }

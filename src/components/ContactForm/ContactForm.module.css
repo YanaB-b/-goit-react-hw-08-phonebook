@@ -1,0 +1,37 @@
+.contactForm {
+  width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 30px;
+  }
+  .textForm{
+    display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  
+ 
+  }
+  .textInput{
+    padding: 8px;
+  }
+  .buttonForm {
+    
+    margin: 10px auto;
+    background-color: rgb(244, 254, 188);
+    border-radius: 5px;
+    cursor: pointer;
+    outline-color: none;
+    border: none;
+    outline: none;
+    transition: background-color 0.3s ease;
+    padding: 10px 20px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+  .buttonForm:hover {
+    background-color: yellow;
+  }

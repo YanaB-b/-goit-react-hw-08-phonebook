@@ -1,0 +1,18 @@
+.homeContainer {
+    text-align: center;
+    background-color: #78c7ef;
+    margin-top: 0;
+    display: block;
+    padding: 30px;
+    height: 100vh;
+  }
+  .homeDescription {
+    font-size: 20px;
+    color: beige;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .homeTitle {
+    color: white;
+
+  }
